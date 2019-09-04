@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
 	<ShortName>Values in Design</ShortName>
-	<Description>Search Values in Design - </Description>
+	<Description>Search Values in Design - Disclaimer</Description>
 	<Contact>help@wordpress.com</Contact>
 	<Url type="application/atom+xml" template="https://valuesindesign.wordpress.com/?s={searchTerms}&amp;feed=atom" />
 	<Url type="rss+xml" template="https://valuesindesign.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
@@ -13,7 +13,7 @@
 	<Query role="example" searchTerms="photography" />
 	<Tags>event nyu hci nyu-mcc vid-council nsf-future-internet-architecture-project nsf helen-nissenbaum mary-flanagan political-values</Tags>
 	<Developer>Automattic</Developer>
-	<SyndicationRight>private</SyndicationRight>
+	<SyndicationRight>open</SyndicationRight>
 	<AdultContent>false</AdultContent>
 	<Language>en</Language>
 	<OutputEncoding>UTF-8</OutputEncoding>
